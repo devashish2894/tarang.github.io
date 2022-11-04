@@ -1,0 +1,27 @@
+*{margin: 0;
+padding: 0;
+box-sizing: border-box;}
+
+
+
+.maincontainer{
+    display: grid;
+    background-color: brown;
+
+}
+
+ nav{
+    background-color: blue;
+ }
+.box1{
+    background-color: aqua;
+}
+.box2{
+    background-color: rgb(116, 46, 192);
+}
+.box3{
+    background-color: rgb(244, 124, 240);
+}
+.box4{
+    background-color: rgb(244, 93, 93);
+}
